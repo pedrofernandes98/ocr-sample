@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6fZLAA6xIH1BsXRmwoBh7HTNaJY9c6tpm9H1iF8iDnyuEZq9WwOM9fDqYvmh48Hf0irsFPfVQwlKIAwEu0uJg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\playground\\ocr-sample\\src\\ocr-sample\\ocr-sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ppedr\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\ppedr\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
